@@ -1,4 +1,5 @@
 const premikas = {
-    name: 'keka ferdousi', cars:
+    name: 'keka ferdousi',
+    cars:
         { brand: 'toyota' }
 }
